@@ -2,6 +2,8 @@
 
 A professional Streamlit dashboard for sentiment analysis using **machine learning** and **natural language processing**.
 
+![AI Sentiment Studio Preview](assets/github-preview.png)
+
 ## What it does
 - Upload an Excel or CSV file with **text only**
 - Auto-detect the text column
