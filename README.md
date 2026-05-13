@@ -65,5 +65,3 @@ streamlit run app/app.py
 - The bundled training corpus is internal and used automatically to fit the model
 - Trained artifacts are saved automatically with `joblib` inside the `models/` folder
 
-## Suggested GitHub description
-**Built a professional sentiment analysis dashboard using Python, Streamlit, NLP, and machine learning. Implemented TF-IDF text vectorization, Logistic Regression classification, automatic text-column detection, keyword analysis, and downloadable prediction reports.**
